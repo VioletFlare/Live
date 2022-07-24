@@ -1,1 +1,1 @@
-dotnet publish --configuration Release
+dotnet publish -r linux-arm -o live-publish
